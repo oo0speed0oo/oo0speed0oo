@@ -15,7 +15,7 @@ I'm a CS graduate and English teacher who has lived in Japan for 15 years. I bui
 
 ## 📱 iOS Apps
 
-- 📚 **[JLPTPrep](https://github.com/oo0speed0oo/JLPTPrep)** - Native iOS study app for JLPT N5 & N4: vocabulary, kanji and grammar quizzes with score tracking. I use it on my iPhone every day. *(Swift, SwiftUI)*
+- 📚 **[JLPTPrep](https://github.com/oo0speed0oo/JLPTPrep)** - Native iOS study app for JLPT N5, N4, and N3: vocabulary, kanji and grammar quizzes with score tracking. I use it on my iPhone every day. *(Swift, SwiftUI)*
 - 🏘️ **[NeighborhoodSkout](https://github.com/oo0speed0oo/NeighborhoodSkout)** - Map your block and remember your neighbors: houses, residents, roles, birthdays. *(Swift, SwiftUI)*
 - 🌸 **[Hanako](https://github.com/oo0speed0oo/Hanako)** - A personal friendship assistant: stay present in the lives of the people who matter most. *(Swift, SwiftUI)*
 
