@@ -37,7 +37,7 @@ I'm a CS graduate and English teacher who has lived in Japan for 15 years. I bui
 - 🧑‍🏫 English teacher at 212 English, Saitama (2015 to now), building learning tools for my own students
 - 📈 Content creator with 400,000+ followers: managed analytics, growth and platform tools
 - 🖥️ Background in IT support before moving to Japan
-- 🗣️ English (native), Spanish, Japanese (studying for JLPT N4)
+- 🗣️ English (native), Spanish, Japanese (studying for JLPT N3)
 
 ## What I'm Looking For
 
